@@ -1,7 +1,6 @@
 # QRAM-2-
 This project integrates the Black-Litterman model with sentiment analysis, adjusting forecasts using Monte Carlo simulations. It features sentiment-aware portfolio optimization, personalized risk profiling, and performance visualization via a Streamlit app, blending behavioral finance with modern portfolio theory.
 
-Black-Litterman Portfolio Optimization with Sentiment Analysis
 This repository presents a quantitative finance project that combines the Black-Litterman model with sentiment analysis to develop a sentiment-aware portfolio optimization framework. The model leverages insights from behavioral finance and integrates them into a robust quantitative framework for strategic asset allocation. The accompanying web application, built with Streamlit, provides an interactive platform for users to explore portfolio optimization, adjust parameters, and visualize results.
 
 Project Overview
